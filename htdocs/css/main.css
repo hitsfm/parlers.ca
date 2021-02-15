@@ -1,0 +1,15 @@
+<style>
+<!--
+A:hover       { COLOR: red; TEXT-DECORATION: underline; }
+A.head        { COLOR: #000000; TEXT-DECORATION: NONE; }
+A.head:hover  { TEXT-DECORATION: underline; }
+A.menu        { COLOR: #FDC500; }
+A.menu:hover  { COLOR: #002260; }
+A.yellow      { TEXT-DECORATION: NONE; }
+A.yellow:hover{ TEXT-DECORATION: underline; }
+A.white      { TEXT-DECORATION: NONE; }
+A.white:hover{ TEXT-DECORATION: underline; }
+A.black      { TEXT-DECORATION: NONE; }
+A.black:hover{ TEXT-DECORATION: underline; }
+-->
+</style>
