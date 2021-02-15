@@ -42,6 +42,14 @@ Installation steps:
 
 2, Copy your modified ezhp2000.cfg to your root apache server directory. This must not be web accessible for security. It holds your admin login information and other important site info. ("C:\Program Files\Apache Group\Apache")
 
+3, Start Apache web server service if it is not already on. (You can find it in your Windows start menu under Apache.)
+
+3, Copy html and htm files to your Apache webroot directory. ("C:\Program Files\Apache Group\Apache\htdocs")
+
+Visit http://yourdomain and the index page should appear. Congrats!
+
+*Make sure your router IP and ports and firewall settings are all ok. I can't help with that. But there are tons of online guides depending on what your internet setup is. This varies with ISP settings etc. If your here. I'm sure you know something about this.
+
 
 
 
