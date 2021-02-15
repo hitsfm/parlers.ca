@@ -59,6 +59,7 @@ Future plans:
 1 - Android App
 2 - iOS App
 3 - Win App
+4 - Get The Web Counter PL script to work.
 
 
 
