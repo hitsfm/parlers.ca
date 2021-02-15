@@ -3,7 +3,7 @@ It's the whole dang site! HTML only, CGI Perl, Databaseless,  unrestricted (simp
 
 Some of these project files are based on some mid 90s incomplete perl snips, and code. And heavy modified by me to create a unique system of my own for the modern web.
 
-What you get is a static html homepage with an upladed list of member generated posts "site" urls with a portal for members to:  register,login,upload a photo,recover lost password,modify a Post,delete a post.
+What you get is a static html homepage with an updated list of registered member generated posts "site" urls with a portal for members to:  register,login,upload a photo,recover lost password,modify a Post,delete a post.
 
 Only CSS and HTML. This makes it easy to work with and design.I needed something in the inspiration of http://neocities.org But not as complicated with the same idea of a portal page, member sites get listed in realtime when they are created and updated. However. My target local community of perhaps 1k folks are not all web masters. They just want to have the freedom to post and speak without content restrictions. But the flexability is there to take advantage of for those who want to go full out on their post. Bringing back freedom and creative nice looking online posts at the local level anyways. 
 
