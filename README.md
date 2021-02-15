@@ -54,6 +54,12 @@ Visit http://yourdomain and the index page should appear. Congrats!
 
 Take a look at the demo folder for images of what this should look like after default install.
 
+Future plans:
+
+1 - Android App
+2 - iOS App
+3 - Win App
+
 
 
 
