@@ -48,7 +48,11 @@ Installation steps:
 
 Visit http://yourdomain and the index page should appear. Congrats!
 
+
+
 *Make sure your router IP and ports and firewall settings are all ok. I can't help with that. But there are tons of online guides depending on what your internet setup is. This varies with ISP settings etc. If your here. I'm sure you know something about this.
+
+Take a look at the demo folder for images of what this should look like after default install.
 
 
 
