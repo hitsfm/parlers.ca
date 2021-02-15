@@ -36,6 +36,12 @@ WHAT DOES NOT WORK:
 I have included a pl web counter module. I tried to play with it. I tried to get it to work. I got Perl to work and it is keeping track in a text file on the drive. But for some reason.... I have not been able to parse that info back into the html template. I get a broken image when I call the pl script as an image html tag. I have disabled this feature for now. But I have still included the files in case anyone wants to try and take a shot at it. If you do enable the web counter module. Expect errors!
 
 
+Installation steps:
+
+1, Copy your modified cgi-bin Parlers.ca pl script files over to your Windows Apache cgi-bin directory. ("C:\Program Files\Apache Group\Apache\cgi-bin")
+
+2, Copy your modified ezhp2000.cfg to your root apache server directory. This must not be web accessible for security. It holds your admin login information and other important site info. ("C:\Program Files\Apache Group\Apache")
+
 
 
 
