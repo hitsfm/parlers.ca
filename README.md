@@ -56,10 +56,11 @@ Take a look at the demo folder for images of what this should look like after de
 
 Future plans:
 
--Android App
--iOS App
--Win App
--Get The Web Counter PL script to work
+-Android App.
+-iOS App.
+-Win App.
+-Get The Web Counter PL script to work.
+-A Windows "sendmail" workaround.
 
 
 
