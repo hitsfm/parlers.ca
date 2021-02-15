@@ -56,10 +56,11 @@ Take a look at the demo folder for images of what this should look like after de
 
 Future plans:
 
-1 - Android App
-2 - iOS App
-3 - Win App
-4 - Get The Web Counter PL script to work.
+A, Android App
+B, iOS App
+C, Win App
+D, Get The Web Counter PL script to work.
+
 
 
 
